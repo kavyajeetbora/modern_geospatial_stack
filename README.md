@@ -18,3 +18,12 @@ Here is a flowchart:
 2. Query global buildings using DuckDB, GeoParquet, and Source Cooperative
    
   [![PyData - DuckDB: The Power of a Data Warehouse in your Python Process](https://img.youtube.com/vi/gDvDo0oNtmw/0.jpg)](https://www.youtube.com/watch?v=gDvDo0oNtmw)
+
+
+## Project Ideas
+1. Deforestation free supply chains
+2. City level dashboard showing the essential metrics for a city like landuse, ground water, urban heat islands etc
+3. Doctor/clinic recommender based on the query/ symptoms of the patient
+
+## Resources
+1. [Location intelligence and its use cases](https://www.safegraph.com/guides/location-intelligence)
