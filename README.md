@@ -23,6 +23,9 @@ Here is a flowchart:
 ## Project Ideas
 1. Deforestation free supply chains
 2. City level dashboard showing the essential metrics for a city like landuse, ground water, urban heat islands etc
+
+   **build a dashboard with basic data like ndvi, ndbi etc for a region**
+
 3. Doctor/clinic recommender based on the query/ symptoms of the patient
 
 ## Resources
