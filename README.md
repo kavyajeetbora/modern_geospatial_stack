@@ -30,3 +30,5 @@ Here is a flowchart:
 
 ## Resources
 1. [Location intelligence and its use cases](https://www.safegraph.com/guides/location-intelligence)
+
+2. [Some GIS basic courses](https://www.linkedin.com/posts/ankur-s-803497126_climatecareers-geospatial-climatetech-activity-7188539655204589568-ANAO?utm_source=share&utm_medium=member_android)
