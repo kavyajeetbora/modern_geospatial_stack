@@ -1,9 +1,12 @@
-//*[@id="root"]/div[1]/div[1]/div/div/div/section[2]/div[1]/div/div/div/div[4]/div/div/div {
-    width: 25rem;
-}
 
 //*[@id="root"]/div[1]/div[1]/div/div/div/section[2]/div[1] {
     padding-top: 20px;
     padding-bottom: 0px;
     padding-left: 0px;
 }
+
+
+//*[@id="root"]/div[1]/div[1]/div/div/div/section[2]/div[1]/div/div/div/div[4]/div/div/div {
+    width: 25rem;
+}
+
