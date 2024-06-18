@@ -19,6 +19,9 @@ Here is a flowchart:
    
   [![PyData - DuckDB: The Power of a Data Warehouse in your Python Process](https://img.youtube.com/vi/gDvDo0oNtmw/0.jpg)](https://www.youtube.com/watch?v=gDvDo0oNtmw)
 
+3. Spatial Data Management course:
+   
+ [![PyData - DuckDB: The Power of a Data Warehouse in your Python Process](https://img.youtube.com/vi/vl7wLN_M-FE/0.jpg)](https://www.youtube.com/watch?v=vl7wLN_M-FE)
 
 ## Project Ideas
 1. Deforestation free supply chains
